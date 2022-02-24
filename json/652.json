@@ -1,0 +1,50 @@
+{
+  "name": "FlipOffNFT #652",
+  "symbol": "FO",
+  "description": "*flips you off*",
+  "seller_fee_basis_points": 500,
+  "image": "image.png",
+  "external_url": "",
+  "edition": 652,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "City"
+    },
+    {
+      "trait_type": "skin color",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "hand",
+      "value": "none"
+    },
+    {
+      "trait_type": "wrist",
+      "value": "Gold bracelet"
+    },
+    {
+      "trait_type": "finger",
+      "value": "Red durag and shades"
+    },
+    {
+      "trait_type": "aura",
+      "value": "None"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "3NkmiKKJn9HCFUwjbUkXac2oE4qu9oNf5o8GLD9dSDV3",
+        "share": 100
+      }
+    ]
+  }
+}

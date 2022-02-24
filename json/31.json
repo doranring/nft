@@ -1,0 +1,50 @@
+{
+  "name": "FlipOffNFT #31",
+  "symbol": "FO",
+  "description": "*flips you off*",
+  "seller_fee_basis_points": 500,
+  "image": "image.png",
+  "external_url": "",
+  "edition": 31,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mountain"
+    },
+    {
+      "trait_type": "skin color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "hand",
+      "value": "Hole"
+    },
+    {
+      "trait_type": "wrist",
+      "value": "Red sweater"
+    },
+    {
+      "trait_type": "finger",
+      "value": "Finger snek"
+    },
+    {
+      "trait_type": "aura",
+      "value": "None"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "3NkmiKKJn9HCFUwjbUkXac2oE4qu9oNf5o8GLD9dSDV3",
+        "share": 100
+      }
+    ]
+  }
+}
